@@ -1,0 +1,13 @@
+# JetBrains IDE
+.idea/
+
+# CMake build output
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+
+# Compiled binaries
+*.exe
+*.o
+*.obj
+*.out
